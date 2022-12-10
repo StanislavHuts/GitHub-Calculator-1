@@ -12,11 +12,9 @@ public class Main {
         int d = multiply(a, b);
         System.out.println(d);
     }
-
     private static int add(int a, int b) {
         return a + b;
     }
-
     private static int multiply(int a, int b) {
         return a * b;
     }
